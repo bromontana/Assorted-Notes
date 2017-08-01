@@ -7,18 +7,24 @@ learned some stuff.
 
 Here they are: 
 
- + Restorative: Adept at dealing with problems. Good at figuring out 
+ 1. Restorative: Adept at dealing with problems. Good at figuring out 
 what is wrong and resolving it.
- + Adaptability: Prefer to "go with the flow." Tend to be "no" people
+    + Executing
+ 2. Adaptability: Prefer to "go with the flow." Tend to be "no" people
 who take things as they come and discover the future one day at a time. 
- + Strategic: Create alternative ways to proceed. Can quickly spot the
+    + Relationship Building
+ 3. Strategic: Create alternative ways to proceed. Can quickly spot the
 relevant patterns and issues. 
- + Learner: Have great desire to learn and want to improve. The process 
+    + Strategic Thinking
+ 4. Learner: Have great desire to learn and want to improve. The process 
 of learning is what excites them.
- + Arranger: Can organize, but also have a flexibility that compliments 
+    + Strategic Thinking 
+ 5. Arranger: Can organize, but also have a flexibility that compliments 
 that ability. Like to figure out how all of the pieces and resources 
 can be arranged for maximum productivity. 
+    + Executing
 
+I am missing from the Influencing thing over all 
 
 ## Story that showcases these
 
@@ -27,7 +33,13 @@ my strengths, but more specifically exemplify the adaptability and
 learner traits. I always enjoyed making new dishes and figuring out 
 what has worked and what has not. 
 
+
+## Things that I am interested in
+
+I wanted to have the futurist strength, but would that kind of conflict 
+with adaptability(?)
+
 ---
-*includer and relator suck balls* 
+*Includer and relator suck balls* 
 ---
 ^ take that Martha
